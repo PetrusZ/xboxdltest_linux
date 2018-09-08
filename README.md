@@ -26,8 +26,8 @@ Replace "ip" to your fastest download speed ip.
 
 ## How to lookup download servers all ip address
 
-http://site.ip138.com/assets1.xboxlive.com/
-http://site.ip138.com/assets2.xboxlive.com/
+* http://site.ip138.com/assets1.xboxlive.com/
+* http://site.ip138.com/assets2.xboxlive.com/
 
 ## TODO
 
